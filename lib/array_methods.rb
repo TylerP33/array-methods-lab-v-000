@@ -6,6 +6,7 @@ end
 def using_sort(array)
   array = ["Starcraft", "Diablo3", "Warcraft", "UT"]
   array.sort!
+  return array
 
 end
 
