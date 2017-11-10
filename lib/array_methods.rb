@@ -1,5 +1,5 @@
 def using_include(array, element)
-  games = ["Starcraft", "Diablo3", "Warcraft"]
+  games = ["Starcraft", "Diablo3", "Warcraft", "UT"]
   games.include?("Diablo3")
 end
 
