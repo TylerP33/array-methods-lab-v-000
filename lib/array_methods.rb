@@ -1,6 +1,6 @@
 def using_include(array, element)
   games = ["Starcraft", "Diablo3", "Warcraft"]
-  games.include? ("Diablo3")
+  games.include? ("Danny")
 end
 
 def using_sort(array)
